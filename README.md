@@ -84,7 +84,7 @@
       <td colspan="2" valign="top">
         <p align="center"><strong>📊 Data &amp; Analytics Core</strong></p>
         <ul>
-          <li><strong>ETL &amp; Ingestion:</strong> Automated Python pipelines &amp; data scraping</li>
+          <li><strong>ETL &amp; Ingestion:</strong> Automated Python pipelines &amp; API/database extraction</li>
           <li><strong>BI Modeling:</strong> Tabular models, TMDL &amp; advanced DAX measures</li>
           <li><strong>Relational DBs:</strong> SQL tuning, Oracle PL/SQL &amp; PostgreSQL queries</li>
         </ul>
@@ -273,19 +273,85 @@
 <br><br>
 
 <!-- ========================================================= -->
-<!--                  ENGINEERING LIFECYCLE                    -->
+<!--                     GITHUB STATS                          -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔬 Data & Software Engineering Lifecycle</h2>
+<h2 align="center">🔮 GitHub Activity & Telemetry</h2>
 
-```mermaid
-flowchart LR
-    A["📡 Data Sources"] --> B["⚙️ ETL / Python"]
-    B --> C["🗄️ Relational ACID"]
-    C --> D["📐 Tabular Model"]
-    D --> E["📊 Executive BI"]
-    E --> F["⚡ Business Impact"]
+<div align="center">
 
-    G["💡 Problem Definition"] --> H["🛠️ Arch & TDD"]
-    H --> I["💻 Clean Code"]
-    I --> J["🚀 Deploy & PWA"]
+<table>
+<tr>
+
+<td>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AsaphGabriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF0&text_color=A8B2C3&cache_seconds=86400"
+  height="175"
+/>
+
+</td>
+
+<td>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsaphGabriel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=A8B2C3&cache_seconds=86400"
+  height="175"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AsaphGabriel&theme=tokyonight&hide_border=true&background=0D1117"
+  height="175"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                       SNAKE                               -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+### `CONTRIBUTION GRID TELEMETRY`
+
+<img
+  src="https://raw.githubusercontent.com/AsaphGabriel/AsaphGabriel/output/github-contribution-grid-snake-dark.svg"
+  width="90%"
+  alt="Contribution Snake"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=AsaphGabriel&label=TELEMETRY.VIEWS&color=7AA2F7&style=for-the-badge"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                        FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2AC3DE,50:BB9AF0,100:7AA2F7&height=130&section=footer"
+  width="100%"
+/>
+
+</div>
